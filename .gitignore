@@ -20,3 +20,6 @@ test/
 # Temporary files
 *.tmp
 temp/
+
+[build.environment]
+  SECRETS_SCAN_SMART_DETECTION_ENABLED = "false"
